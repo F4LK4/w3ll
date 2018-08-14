@@ -1,0 +1,34 @@
+Hai guys, sudah lama nggak buat artikel tentang deface lagi ya hehe, kali ini gw akan membawakan tutorial deface
+dengan metode Drupal Hidden Uploader
+Okey Langsung Aja 
+
+Dork :
+
+allowed file type txt jpg html gif site:
+allowed file types: png gif jpg txt site:gov
+allowed file types: png gif jpg txt site:com
+allowed file types: png gif jpg txt site:edu
+( Site Bisa Ditambahkan Domain Negara Yang Di Inginkan
+Contoh : id,uk.au.jp,il,br.bz.eu. Dan Lain Lain
+
+1. Dorking Dulu Di Google
+
+
+
+2. Kalian Pilih Salah Satu Web & Klik Choose File
+
+
+
+
+3. Pilih Script Deface Kalian Dan Klik Upload
+4. Jika Sudah Nanti Akan Ada tulisan script Lalu Kalian Klik Kanan / Klik File Yang Tadi Kalian Upload
+
+
+
+5.klik file sciprt kalian dan BUUUUM 
+
+
+
+Ok sekian ,, Nantikan tutor selanjutnya,,,, 
+#klewas klewes penting sukses
+#Ghost Hunter Illusion

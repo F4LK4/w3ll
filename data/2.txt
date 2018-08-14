@@ -1,0 +1,34 @@
+Assalamualaikum gan ,
+
+Kali Ini Saya Akan Bahas Tentang Cara Deface Dengan 
+Roxy Fileman File Upload,
+Caranya Hampir Mirip Si Dengan
+cara-deface-dengan-ajax-file-manager
+oke langsung saja ya,
+
+Dork
+"intitle:"Roxy file manager" Copy Kan Dork Ke Mbah Google
+ Kemudian Kita Cari Targetnya yg Vuln 
+
+
+
+
+Terus Kalau Mau Upload Script, Klik Add file , terus upload deh script mu
+
+
+
+
+Kalau Mau Lihat Cari Scriptmu Dan Klik Preview, 
+
+
+
+
+
+Cukup Sekian Iya Tutorial Dari Gw,, Gampang Kan??,, Jika Ada Yang Ditanyakan Silahkan Berkomentar, Bye Sampe Jumpa Di Tutorial Berikutnya Dari Saya
+
+Wassalamualikum.
+
+salam dari team kami
+
+
+Gk paham liat : www.falka15cry.ml

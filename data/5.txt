@@ -1,0 +1,27 @@
+1. buatlah file txt dengan notepad, isi dengan kata - kata yang ingin diucapkan layaknya file deface, jangan lupa di save dan beri ext:txt 
+_contoh_:scriplu.txt
+
+2. Di pencarian google, masukkan dork berikut :
+inurl:/html/siswa.php?
+inurl:/html/alumni.php?
+inurl:/html/guru.php?
+
+3. Nanti bakalan muncul beberapa situs sekolahan, anda pilih salah satu untuk di eksekusi
+
+4. Silahkan anda masukkan exploit ini /editor/filemanager/connectors/test.html
+Contoh: www.site.com/editor/filemanager/connectors/test.html
+
+5. Nanti akan terlihat ada kolom connector silahkan anda ganti ASP jadi dengan PHP. Resource type file
+
+6. Klik "pilih file" dan pilih file txt yang sudah dibuat tadi
+
+7. Klik "upload"
+
+8. Jika berhasil akan muncul tulisan kira - kira seperti ini 'file uploaded with no error'
+
+9. Untuk melihat file uploadnya, anda buka webnya dengan www.site.com/userfiles/file/namafilemu.txt
+
+10. Jika berhasil maka nanti akan muncul text yang tadi anda buat di notepad.
+Contoh live : http://www.smkn1kuta.sch.id/userfiles/file/index(26).txt
+
+Selesai, kini anda berhasil mendeface web tersebut, meski bukan pada indexnya.
